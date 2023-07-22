@@ -18,6 +18,6 @@ Os vídeos utilizados foram trailers baixados do Youtube, não foi solicitado qu
 
 ## Feito por:
 
-### Gustavo Rosseti.
+### Gustavo Rosseti
 
 ### Linkedin: https://www.linkedin.com/in/gustavorosseti/
